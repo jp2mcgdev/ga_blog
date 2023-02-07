@@ -1,0 +1,8 @@
+- name: "Jekyll"
+  occupation: "/assets/img/jekyll.png"
+
+- name: "Kitten"
+  occupation: "/assets/img/kitten.jpg"
+
+- name: "Rob"
+  occupation: "Programmer"

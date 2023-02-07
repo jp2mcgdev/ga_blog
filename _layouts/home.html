@@ -1,0 +1,19 @@
+{% for file in site.static_files  %}
+    {% if file.image %}
+        {{file.path}}
+        <img width="200px" src="{{file.path}}" alt="{{file.name}}"> 
+    {% endif %}
+    <br>
+{% endfor %}
+
+
+<hr>
+
+Board Memebers 
+
+{% for person in site.data.people %}
+    <br>
+    name: {{person.name}}
+    <br>
+    <img width="200px" src="{{person.occupation}}"> 
+{% endfor %}
