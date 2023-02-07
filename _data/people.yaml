@@ -1,8 +1,8 @@
 - name: "Jekyll"
-  occupation: "/assets/img/jekyll.png"
+  occupation: "/ga_blog/img/jekyll.png"
 
 - name: "Kitten"
-  occupation: "/assets/img/kitten.jpg"
+  occupation: "/ga_blog/assets/img/kitten.jpg"
 
 - name: "Rob"
   occupation: "Programmer"
